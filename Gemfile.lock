@@ -1,7 +1,9 @@
 PATH
   remote: local_gems
   specs:
+    drug_information (0.0.1)
     health_plan (0.0.1)
+      drug_information
 
 GEM
   remote: https://rubygems.org/
