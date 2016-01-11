@@ -1,3 +1,8 @@
+PATH
+  remote: local_gems
+  specs:
+    health_plan (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -20,4 +25,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  health_plan!
   rspec
